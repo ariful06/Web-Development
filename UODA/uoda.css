@@ -1,0 +1,69 @@
+*{margin:0;padding:0}
+body{font-family: Arial;
+font-size: 14px;
+line-height: 25px;
+background:#B9EE55}
+.fix{overflow:hidden;}
+.main{width:960px;margin:20px auto;display:block}
+.header{background: url("images/ban.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+height: 275px;
+width: 181px;}
+.header h1{color: #97de44;
+font-size: 34px;
+margin-left: 26px;
+margin-top: 60px;}
+.header_text{color: #535353;
+margin-left: 47px;
+margin-top: 14px;}
+.header h4{font-size: 27px;
+margin-left: 26px;}
+.header h3{margin-left: 9px;
+margin-top: 0;}
+.header h2{font-size: 31px;}
+.slider{width:960px;height:300px;background:url(images/url2.png)}
+.slider_text{color: #5ca20b;
+font-size: 35px;
+line-height: 79px;
+margin-left: 200px;}
+.slider_text h2{font-size:100px}
+
+
+.mainmenu{background:activecaption;
+    display: block;
+    width: 960px;
+	overflow:hidden}
+.mainmenu ul{margin:0;padding:0;list-style:none;}
+.mainmenu ul li{float:left;}
+.mainmenu ul li a{display:block;padding:10px;text-decoration:none;border-right:1px solid #7CABBB}
+.mainmenu ul li a:hover{background:#EDEDED}
+.maincontent{background:url(images/url.png) no-repeat}
+.content{float: left;
+padding: 31px;
+width: 571px;}
+.content h2{margin-bottom:5px}
+.sidebar{float: right;
+padding: 69px;
+width: 188px;
+}
+.sidebar ul{display: block;
+line-height: 30px;
+list-style: outside none none;
+margin: 0;
+padding: 0;}
+.sidebar ul li{background:none repeat scroll 0 0 greenyellow;
+list-style: outside none square;}
+.sidebar ul li a{color:black;padding:5px;text-decoration:none;border-bottom:1px solid #7CABBB}
+.footer{background: none repeat scroll 0 0 #527f98;
+height:78px
+}
+.footer_logo{float: right;
+padding:9px;}
+.footer_logo img{float: right;
+margin-right: 8px;
+padding: 5px;width:45;
+}
+
+.fix.maincontent {
+}
+.footer_cp{margin-left: 149px;
+margin-top: 53px;}
